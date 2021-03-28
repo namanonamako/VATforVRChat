@@ -1,0 +1,18 @@
+*.csproj
+*.sln
+*.userprefs
+.vs/
+/Library/
+/Temp/
+/obj/
+/Packages
+/UnityPackageManager
+/Assets/VRCSDK
+/Assets/VRCSDK.meta
+/Assets/Plugins/VRCSDK
+/Assets/Plugins/VRCSDK.meta
+/*.unitypackage
+/Assets/VRChat Examples
+/Assets/VRChat Examples.meta
+/Assets/SideFXLabs.meta
+/Assets/SideFXLabs
