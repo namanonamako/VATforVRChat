@@ -263,6 +263,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &7278348655259723709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7278348655924562076, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_Name
+      value: vertex_animation_textures1_mesh (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278348655924663484, guid: ac01c17b41c2f47468cb1c9ecf3ecddf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac01c17b41c2f47468cb1c9ecf3ecddf, type: 3}
 --- !u!1001 &7975715553312213014
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -274,6 +343,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: vertex_animation_textures1_mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 7975715551747047310, guid: 9f03e16a056c7744ebe794b78b347232,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7975715551747466158, guid: 9f03e16a056c7744ebe794b78b347232,
         type: 3}
