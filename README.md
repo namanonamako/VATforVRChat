@@ -6,6 +6,7 @@ Sample of using Houdini's VAT with VRChat.
 ## Description
 
 ## Demo
+![リンク名](https://raw.github.com/wiki/namanonamako/VATforVRChat/images/out.gif)
 
 ## Requirement
 VRCSDK2-2021.03.22.18.27  
