@@ -3,8 +3,6 @@ VATforVRChat
 
 Sample of using Houdini's VAT with VRChat.
 
-## Description
-
 ## Demo
 ![リンク名](https://raw.github.com/wiki/namanonamako/VATforVRChat/images/output.gif)
 
