@@ -4,7 +4,7 @@ VATforVRChat
 Sample of using Houdini's VAT with VRChat.
 
 ## Demo
-<img src="https://raw.github.com/wiki/namanonamako/VATforVRChat/images/output.gif" width=0%>
+<img src="https://raw.github.com/wiki/namanonamako/VATforVRChat/images/output.gif" width=50%>
 
 ## Requirement
 VRCSDK2-2021.03.22.18.27  
